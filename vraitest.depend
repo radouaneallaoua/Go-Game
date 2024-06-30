@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676863658 source:c:\users\dell\onedrive\bureau\vraitest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1676857947 c:\users\dell\onedrive\bureau\vraitest\headers.h
+
